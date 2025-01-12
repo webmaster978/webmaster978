@@ -26,7 +26,7 @@
 <a href="https://codepen.io/joel jt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joel jt" height="30" width="40" /></a>
 <a href="https://dev.to/joel jt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joel jt" height="30" width="40" /></a>
 <a href="https://twitter.com/jtjoelk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtjoelk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joel jt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel jt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joel-jt-1120331b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel jt" height="30" width="40" /></a>
 <a href="https://fb.com/jtjoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jtjoel" height="30" width="40" /></a>
 <a href="https://medium.com/@joel jt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joel jt" height="30" width="40" /></a>
 </p>
